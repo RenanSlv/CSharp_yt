@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Renan\Desktop\CSharp\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Renan\Desktop\CSharp\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Renan\Desktop\CSharp\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Strings\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Strings\Strings\obj\Debug\Strings.Form1.resources
+C:\Users\Renan\Desktop\CSharp\Strings\Strings\obj\Debug\Strings.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Strings\Strings\obj\Debug\Strings.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Renan\Desktop\CSharp\Strings\Strings\obj\Debug\Strings.pdb

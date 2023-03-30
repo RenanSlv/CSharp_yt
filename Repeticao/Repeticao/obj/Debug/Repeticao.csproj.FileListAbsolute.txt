@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Repeticao\Repeticao\bin\Debug\Repeticao.exe.config
+C:\Users\Renan\Desktop\CSharp\Repeticao\Repeticao\bin\Debug\Repeticao.exe
+C:\Users\Renan\Desktop\CSharp\Repeticao\Repeticao\bin\Debug\Repeticao.pdb
+C:\Users\Renan\Desktop\CSharp\Repeticao\Repeticao\obj\Debug\Repeticao.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Repeticao\Repeticao\obj\Debug\Repeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Repeticao\Repeticao\obj\Debug\Repeticao.Form1.resources
+C:\Users\Renan\Desktop\CSharp\Repeticao\Repeticao\obj\Debug\Repeticao.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Repeticao\Repeticao\obj\Debug\Repeticao.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Repeticao\Repeticao\obj\Debug\Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Repeticao\Repeticao\obj\Debug\Repeticao.exe
+C:\Users\Renan\Desktop\CSharp\Repeticao\Repeticao\obj\Debug\Repeticao.pdb

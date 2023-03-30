@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\PrimeiraAplicacao.exe.config
+C:\Users\Renan\Desktop\CSharp\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\PrimeiraAplicacao.exe
+C:\Users\Renan\Desktop\CSharp\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\PrimeiraAplicacao.pdb
+C:\Users\Renan\Desktop\CSharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.exe
+C:\Users\Renan\Desktop\CSharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.pdb
+C:\Users\Renan\Desktop\CSharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.Form1.resources
