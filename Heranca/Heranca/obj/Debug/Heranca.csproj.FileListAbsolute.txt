@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Heranca\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\Renan\Desktop\CSharp\Heranca\Heranca\bin\Debug\Heranca.exe
+C:\Users\Renan\Desktop\CSharp\Heranca\Heranca\bin\Debug\Heranca.pdb
+C:\Users\Renan\Desktop\CSharp\Heranca\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Heranca\Heranca\obj\Debug\Heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Heranca\Heranca\obj\Debug\Heranca.Heranca.resources
+C:\Users\Renan\Desktop\CSharp\Heranca\Heranca\obj\Debug\Heranca.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Heranca\Heranca\obj\Debug\Heranca.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Heranca\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Heranca\Heranca\obj\Debug\Heranca.exe
+C:\Users\Renan\Desktop\CSharp\Heranca\Heranca\obj\Debug\Heranca.pdb

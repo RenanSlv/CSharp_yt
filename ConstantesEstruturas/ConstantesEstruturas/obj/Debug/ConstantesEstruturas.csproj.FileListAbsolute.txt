@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\ConstantesEstruturas\ConstantesEstruturas\bin\Debug\ConstantesEstruturas.exe.config
+C:\Users\Renan\Desktop\CSharp\ConstantesEstruturas\ConstantesEstruturas\bin\Debug\ConstantesEstruturas.exe
+C:\Users\Renan\Desktop\CSharp\ConstantesEstruturas\ConstantesEstruturas\bin\Debug\ConstantesEstruturas.pdb
+C:\Users\Renan\Desktop\CSharp\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.Form1.resources
+C:\Users\Renan\Desktop\CSharp\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.exe
+C:\Users\Renan\Desktop\CSharp\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.pdb

@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\ClassesParametros\ClassesParametros\bin\Debug\ClassesParametros.exe.config
+C:\Users\Renan\Desktop\CSharp\ClassesParametros\ClassesParametros\bin\Debug\ClassesParametros.exe
+C:\Users\Renan\Desktop\CSharp\ClassesParametros\ClassesParametros\bin\Debug\ClassesParametros.pdb
+C:\Users\Renan\Desktop\CSharp\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.Form1.resources
+C:\Users\Renan\Desktop\CSharp\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.exe
+C:\Users\Renan\Desktop\CSharp\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.pdb

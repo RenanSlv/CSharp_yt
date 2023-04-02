@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+C:\Users\Renan\Desktop\CSharp\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+C:\Users\Renan\Desktop\CSharp\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\Renan\Desktop\CSharp\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.Form1.resources
+C:\Users\Renan\Desktop\CSharp\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+C:\Users\Renan\Desktop\CSharp\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb

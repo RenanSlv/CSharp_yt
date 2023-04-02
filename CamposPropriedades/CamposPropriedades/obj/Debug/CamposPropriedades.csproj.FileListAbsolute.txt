@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\CamposPropriedades\CamposPropriedades\bin\Debug\CamposPropriedades.exe.config
+C:\Users\Renan\Desktop\CSharp\CamposPropriedades\CamposPropriedades\bin\Debug\CamposPropriedades.exe
+C:\Users\Renan\Desktop\CSharp\CamposPropriedades\CamposPropriedades\bin\Debug\CamposPropriedades.pdb
+C:\Users\Renan\Desktop\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.Form1.resources
+C:\Users\Renan\Desktop\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.exe
+C:\Users\Renan\Desktop\CSharp\CamposPropriedades\CamposPropriedades\obj\Debug\CamposPropriedades.pdb

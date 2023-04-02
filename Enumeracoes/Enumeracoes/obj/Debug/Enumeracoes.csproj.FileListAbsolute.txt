@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Enumeracoes\Enumeracoes\bin\Debug\Enumeracoes.exe.config
+C:\Users\Renan\Desktop\CSharp\Enumeracoes\Enumeracoes\bin\Debug\Enumeracoes.exe
+C:\Users\Renan\Desktop\CSharp\Enumeracoes\Enumeracoes\bin\Debug\Enumeracoes.pdb
+C:\Users\Renan\Desktop\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.Form1.resources
+C:\Users\Renan\Desktop\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.exe
+C:\Users\Renan\Desktop\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.pdb
