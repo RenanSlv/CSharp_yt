@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9AE969A5-4BA6-4916-940D-F6FCC9361299}</ProjectGuid>
+    <ProjectGuid>{57DC642F-EE93-4CF4-9260-97B64F4AA43F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Heranca</RootNamespace>
-    <AssemblyName>Heranca</AssemblyName>
+    <RootNamespace>Polimorfismo</RootNamespace>
+    <AssemblyName>Polimorfismo</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,11 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="cl_bicicleta.cs" />
-    <Compile Include="cl_carro.cs" />
-    <Compile Include="cl_test2.cs" />
-    <Compile Include="cl_teste.cs" />
-    <Compile Include="cl_veiculo.cs" />
+    <Compile Include="classes.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

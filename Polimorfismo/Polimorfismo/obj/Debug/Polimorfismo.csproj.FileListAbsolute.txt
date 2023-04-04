@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.Form1.resources
+C:\Users\Renan\Desktop\CSharp\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Renan\Desktop\CSharp\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Renan\Desktop\CSharp\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\Renan\Desktop\CSharp\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Renan\Desktop\CSharp\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb

@@ -10,9 +10,12 @@ namespace Heranca
     {
         public string Marca { get; set; }
         public string Cor { get; set; }
-        public void Acelerar() 
+        abstract public void Acelerar();// como foi delcarado abstrato tem que ser declarado nas classes herdadas
+        
+        //virtual pode ser usado e pode ser alterado nas outras classes
+        public virtual void Parar() 
         {
-            Console.WriteLine("Acelerou");
+            Console.WriteLine("Parou");
         }
     }
 }

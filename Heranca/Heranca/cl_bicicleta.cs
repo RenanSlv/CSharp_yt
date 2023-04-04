@@ -10,7 +10,18 @@ namespace Heranca
     {
         public void Pedalar() 
         {
-
+            Console.WriteLine("Pedalou");
         }
+
+        //Foi declarado abstrata na classe principal. Tem que ser implementado
+        public override void Acelerar() 
+        {
+            Console.WriteLine("A bicicleta acelerou");
+        }
+        public override void Parar()
+        {
+            Console.WriteLine("A bicicleta parou");
+        }
+
     }
 }

@@ -27,6 +27,9 @@ namespace Heranca
 
             carro.Acelerar();
             bicicleta.Acelerar();
+
+            carro.Parar();
+            bicicleta.Parar();
         }
     }
 }
