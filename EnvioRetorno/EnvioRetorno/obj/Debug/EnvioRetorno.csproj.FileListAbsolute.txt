@@ -1,0 +1,12 @@
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\bin\Debug\EnvioRetorno.exe.config
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\bin\Debug\EnvioRetorno.exe
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\bin\Debug\EnvioRetorno.pdb
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.frm1.resources
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.frm2.resources
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.exe
+C:\Users\Renan\Desktop\CSharp\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.pdb

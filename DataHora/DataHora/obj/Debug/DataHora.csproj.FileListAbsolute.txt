@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\DataHora\DataHora\bin\Debug\DataHora.exe.config
+C:\Users\Renan\Desktop\CSharp\DataHora\DataHora\bin\Debug\DataHora.exe
+C:\Users\Renan\Desktop\CSharp\DataHora\DataHora\bin\Debug\DataHora.pdb
+C:\Users\Renan\Desktop\CSharp\DataHora\DataHora\obj\Debug\DataHora.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\DataHora\DataHora\obj\Debug\DataHora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\DataHora\DataHora\obj\Debug\DataHora.Form1.resources
+C:\Users\Renan\Desktop\CSharp\DataHora\DataHora\obj\Debug\DataHora.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\DataHora\DataHora\obj\Debug\DataHora.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\DataHora\DataHora\obj\Debug\DataHora.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\DataHora\DataHora\obj\Debug\DataHora.exe
+C:\Users\Renan\Desktop\CSharp\DataHora\DataHora\obj\Debug\DataHora.pdb

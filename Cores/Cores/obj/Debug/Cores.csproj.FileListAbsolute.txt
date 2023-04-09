@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Cores\Cores\bin\Debug\Cores.exe.config
+C:\Users\Renan\Desktop\CSharp\Cores\Cores\bin\Debug\Cores.exe
+C:\Users\Renan\Desktop\CSharp\Cores\Cores\bin\Debug\Cores.pdb
+C:\Users\Renan\Desktop\CSharp\Cores\Cores\obj\Debug\Cores.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Cores\Cores\obj\Debug\Cores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Cores\Cores\obj\Debug\Cores.Form1.resources
+C:\Users\Renan\Desktop\CSharp\Cores\Cores\obj\Debug\Cores.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Cores\Cores\obj\Debug\Cores.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Cores\Cores\obj\Debug\Cores.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Cores\Cores\obj\Debug\Cores.exe
+C:\Users\Renan\Desktop\CSharp\Cores\Cores\obj\Debug\Cores.pdb

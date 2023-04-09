@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Renan\Desktop\CSharp\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\Renan\Desktop\CSharp\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Renan\Desktop\CSharp\Eventos\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Eventos\Eventos\obj\Debug\Eventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Eventos\Eventos\obj\Debug\Eventos.Eventos.resources
+C:\Users\Renan\Desktop\CSharp\Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Eventos\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\Renan\Desktop\CSharp\Eventos\Eventos\obj\Debug\Eventos.pdb

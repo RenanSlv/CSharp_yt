@@ -1,0 +1,13 @@
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\bin\Debug\Formularios.exe
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\obj\Debug\Formularios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\obj\Debug\Formularios.frmPrimeiro.resources
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\obj\Debug\Formularios.frmUm.resources
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\obj\Debug\Formularios.exe
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Renan\Desktop\CSharp\Formularios\Formularios\obj\Debug\Formularios.frmDois.resources

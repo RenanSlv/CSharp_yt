@@ -1,0 +1,12 @@
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\bin\Debug\MDIprojeto.exe.config
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\bin\Debug\MDIprojeto.exe
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\bin\Debug\MDIprojeto.pdb
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\obj\Debug\MDIprojeto.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\obj\Debug\MDIprojeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\obj\Debug\MDIprojeto.frmMain.resources
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\obj\Debug\MDIprojeto.frmUm.resources
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\obj\Debug\MDIprojeto.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\obj\Debug\MDIprojeto.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\obj\Debug\MDIprojeto.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\obj\Debug\MDIprojeto.exe
+C:\Users\Renan\Desktop\CSharp\MDIprojeto\MDIprojeto\obj\Debug\MDIprojeto.pdb
