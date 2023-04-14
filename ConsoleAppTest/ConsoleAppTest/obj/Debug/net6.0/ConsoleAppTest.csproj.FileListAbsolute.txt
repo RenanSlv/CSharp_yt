@@ -1,0 +1,5 @@
+C:\Users\Renan\Desktop\CSharp\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Desktop\CSharp\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\CSharp\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.AssemblyInfo.cs
+C:\Users\Renan\Desktop\CSharp\ConsoleAppTest\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.csproj.CoreCompileInputs.cache

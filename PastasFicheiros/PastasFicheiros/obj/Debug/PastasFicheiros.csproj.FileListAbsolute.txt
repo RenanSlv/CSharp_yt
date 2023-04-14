@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\PastasFicheiros\PastasFicheiros\bin\Debug\PastasFicheiros.exe.config
+C:\Users\Renan\Desktop\CSharp\PastasFicheiros\PastasFicheiros\bin\Debug\PastasFicheiros.exe
+C:\Users\Renan\Desktop\CSharp\PastasFicheiros\PastasFicheiros\bin\Debug\PastasFicheiros.pdb
+C:\Users\Renan\Desktop\CSharp\PastasFicheiros\PastasFicheiros\obj\Debug\PastasFicheiros.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\PastasFicheiros\PastasFicheiros\obj\Debug\PastasFicheiros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\PastasFicheiros\PastasFicheiros\obj\Debug\PastasFicheiros.Form1.resources
+C:\Users\Renan\Desktop\CSharp\PastasFicheiros\PastasFicheiros\obj\Debug\PastasFicheiros.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\PastasFicheiros\PastasFicheiros\obj\Debug\PastasFicheiros.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\PastasFicheiros\PastasFicheiros\obj\Debug\PastasFicheiros.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\PastasFicheiros\PastasFicheiros\obj\Debug\PastasFicheiros.exe
+C:\Users\Renan\Desktop\CSharp\PastasFicheiros\PastasFicheiros\obj\Debug\PastasFicheiros.pdb

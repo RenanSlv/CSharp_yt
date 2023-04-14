@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\CaixasDialogo\CaixasDialogo\bin\Debug\CaixasDialogo.exe.config
+C:\Users\Renan\Desktop\CSharp\CaixasDialogo\CaixasDialogo\bin\Debug\CaixasDialogo.exe
+C:\Users\Renan\Desktop\CSharp\CaixasDialogo\CaixasDialogo\bin\Debug\CaixasDialogo.pdb
+C:\Users\Renan\Desktop\CSharp\CaixasDialogo\CaixasDialogo\obj\Debug\CaixasDialogo.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\CaixasDialogo\CaixasDialogo\obj\Debug\CaixasDialogo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\CaixasDialogo\CaixasDialogo\obj\Debug\CaixasDialogo.Form1.resources
+C:\Users\Renan\Desktop\CSharp\CaixasDialogo\CaixasDialogo\obj\Debug\CaixasDialogo.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\CaixasDialogo\CaixasDialogo\obj\Debug\CaixasDialogo.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\CaixasDialogo\CaixasDialogo\obj\Debug\CaixasDialogo.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\CaixasDialogo\CaixasDialogo\obj\Debug\CaixasDialogo.exe
+C:\Users\Renan\Desktop\CSharp\CaixasDialogo\CaixasDialogo\obj\Debug\CaixasDialogo.pdb

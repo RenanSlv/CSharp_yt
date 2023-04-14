@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\ApagarPastasFicheiros\ApagarPastasFicheiros\bin\Debug\ApagarPastasFicheiros.exe.config
+C:\Users\Renan\Desktop\CSharp\ApagarPastasFicheiros\ApagarPastasFicheiros\bin\Debug\ApagarPastasFicheiros.exe
+C:\Users\Renan\Desktop\CSharp\ApagarPastasFicheiros\ApagarPastasFicheiros\bin\Debug\ApagarPastasFicheiros.pdb
+C:\Users\Renan\Desktop\CSharp\ApagarPastasFicheiros\ApagarPastasFicheiros\obj\Debug\ApagarPastasFicheiros.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\ApagarPastasFicheiros\ApagarPastasFicheiros\obj\Debug\ApagarPastasFicheiros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\ApagarPastasFicheiros\ApagarPastasFicheiros\obj\Debug\ApagarPastasFicheiros.Form1.resources
+C:\Users\Renan\Desktop\CSharp\ApagarPastasFicheiros\ApagarPastasFicheiros\obj\Debug\ApagarPastasFicheiros.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\ApagarPastasFicheiros\ApagarPastasFicheiros\obj\Debug\ApagarPastasFicheiros.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\ApagarPastasFicheiros\ApagarPastasFicheiros\obj\Debug\ApagarPastasFicheiros.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\ApagarPastasFicheiros\ApagarPastasFicheiros\obj\Debug\ApagarPastasFicheiros.exe
+C:\Users\Renan\Desktop\CSharp\ApagarPastasFicheiros\ApagarPastasFicheiros\obj\Debug\ApagarPastasFicheiros.pdb

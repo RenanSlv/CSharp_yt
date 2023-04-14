@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\JustTests\JustTests\bin\Debug\JustTests.exe.config
+C:\Users\Renan\Desktop\CSharp\JustTests\JustTests\bin\Debug\JustTests.exe
+C:\Users\Renan\Desktop\CSharp\JustTests\JustTests\bin\Debug\JustTests.pdb
+C:\Users\Renan\Desktop\CSharp\JustTests\JustTests\obj\Debug\JustTests.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\JustTests\JustTests\obj\Debug\JustTests.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\JustTests\JustTests\obj\Debug\JustTests.Form1.resources
+C:\Users\Renan\Desktop\CSharp\JustTests\JustTests\obj\Debug\JustTests.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\JustTests\JustTests\obj\Debug\JustTests.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\JustTests\JustTests\obj\Debug\JustTests.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\JustTests\JustTests\obj\Debug\JustTests.exe
+C:\Users\Renan\Desktop\CSharp\JustTests\JustTests\obj\Debug\JustTests.pdb

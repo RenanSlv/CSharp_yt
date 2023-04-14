@@ -1,0 +1,8 @@
+C:\Users\Renan\Desktop\CSharp\ConsoleTest2\ConsoleTest2\bin\Debug\ConsoleTest2.exe.config
+C:\Users\Renan\Desktop\CSharp\ConsoleTest2\ConsoleTest2\bin\Debug\ConsoleTest2.exe
+C:\Users\Renan\Desktop\CSharp\ConsoleTest2\ConsoleTest2\bin\Debug\ConsoleTest2.pdb
+C:\Users\Renan\Desktop\CSharp\ConsoleTest2\ConsoleTest2\obj\Debug\ConsoleTest2.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\ConsoleTest2\ConsoleTest2\obj\Debug\ConsoleTest2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\ConsoleTest2\ConsoleTest2\obj\Debug\ConsoleTest2.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\ConsoleTest2\ConsoleTest2\obj\Debug\ConsoleTest2.exe
+C:\Users\Renan\Desktop\CSharp\ConsoleTest2\ConsoleTest2\obj\Debug\ConsoleTest2.pdb

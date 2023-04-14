@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\FicheirosTXT\FicheirosTXT\bin\Debug\FicheirosTXT.exe.config
+C:\Users\Renan\Desktop\CSharp\FicheirosTXT\FicheirosTXT\bin\Debug\FicheirosTXT.exe
+C:\Users\Renan\Desktop\CSharp\FicheirosTXT\FicheirosTXT\bin\Debug\FicheirosTXT.pdb
+C:\Users\Renan\Desktop\CSharp\FicheirosTXT\FicheirosTXT\obj\Debug\FicheirosTXT.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\FicheirosTXT\FicheirosTXT\obj\Debug\FicheirosTXT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\FicheirosTXT\FicheirosTXT\obj\Debug\FicheirosTXT.Form1.resources
+C:\Users\Renan\Desktop\CSharp\FicheirosTXT\FicheirosTXT\obj\Debug\FicheirosTXT.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\FicheirosTXT\FicheirosTXT\obj\Debug\FicheirosTXT.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\FicheirosTXT\FicheirosTXT\obj\Debug\FicheirosTXT.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\FicheirosTXT\FicheirosTXT\obj\Debug\FicheirosTXT.exe
+C:\Users\Renan\Desktop\CSharp\FicheirosTXT\FicheirosTXT\obj\Debug\FicheirosTXT.pdb

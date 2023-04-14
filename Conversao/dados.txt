@@ -1,0 +1,5 @@
+Esta frase é alfanumérica.
+150
+False
+10/04/2023 16:45:09
+-14778904

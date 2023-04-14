@@ -1,0 +1,8 @@
+C:\Users\Renan\Desktop\CSharp\Maratona\Maratona\bin\Debug\Maratona.exe.config
+C:\Users\Renan\Desktop\CSharp\Maratona\Maratona\bin\Debug\Maratona.exe
+C:\Users\Renan\Desktop\CSharp\Maratona\Maratona\bin\Debug\Maratona.pdb
+C:\Users\Renan\Desktop\CSharp\Maratona\Maratona\obj\Debug\Maratona.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Maratona\Maratona\obj\Debug\Maratona.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Maratona\Maratona\obj\Debug\Maratona.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Maratona\Maratona\obj\Debug\Maratona.exe
+C:\Users\Renan\Desktop\CSharp\Maratona\Maratona\obj\Debug\Maratona.pdb
