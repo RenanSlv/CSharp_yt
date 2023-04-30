@@ -1,0 +1,25 @@
+/* Seleciona todos de algum lugar*/
+SELECT * FROM contatos
+
+/* Seleciona algum dado WHERE (onde)*/
+SELECT * FROM contatos WHERE nome= 'Ana'
+
+/* Adicionar dados*/
+INSERT INTO contatos VALUES('Novo Nome', '333444')
+
+/* Alteração de dados*/
+UPDATE contatos 
+SET nome='Joaquin'
+WHERE nome='Ana'; 
+
+UPDATE contatos SET nome = 'NomeAlterado' WHERE nome = 'Novo Nome'
+
+/* Deletando dados*/
+DELETE FROM contatos WHERE nome = 'João Ribeiro'
+
+/* Criando novas tabelas*/
+create table Esportes(
+Modalidade nvarchar(100),
+NumeroJogadores int,
+Regras nvarchar(255)
+)

@@ -1,0 +1,13 @@
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\bin\Debug\LigacaoBD2.exe.config
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\bin\Debug\LigacaoBD2.exe
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\bin\Debug\LigacaoBD2.pdb
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\obj\Debug\LigacaoBD2.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\obj\Debug\LigacaoBD2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\obj\Debug\LigacaoBD2.Form1.resources
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\obj\Debug\LigacaoBD2.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\obj\Debug\LigacaoBD2.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\obj\Debug\LigacaoBD2.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\obj\Debug\LigacaoBD2.csproj.CopyComplete
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\obj\Debug\LigacaoBD2.exe
+C:\Users\Renan\Desktop\CSharp\LigacaoBD2\LigacaoBD2\obj\Debug\LigacaoBD2.pdb

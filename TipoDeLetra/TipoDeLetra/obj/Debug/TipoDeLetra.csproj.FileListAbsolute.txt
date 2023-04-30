@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\TipoDeLetra\TipoDeLetra\bin\Debug\TipoDeLetra.exe.config
+C:\Users\Renan\Desktop\CSharp\TipoDeLetra\TipoDeLetra\bin\Debug\TipoDeLetra.exe
+C:\Users\Renan\Desktop\CSharp\TipoDeLetra\TipoDeLetra\bin\Debug\TipoDeLetra.pdb
+C:\Users\Renan\Desktop\CSharp\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.Form1.resources
+C:\Users\Renan\Desktop\CSharp\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.exe
+C:\Users\Renan\Desktop\CSharp\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.pdb
