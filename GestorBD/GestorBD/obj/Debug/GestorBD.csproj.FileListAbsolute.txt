@@ -1,0 +1,13 @@
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\bin\Debug\GestorBD.exe.config
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\bin\Debug\GestorBD.exe
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\bin\Debug\GestorBD.pdb
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\obj\Debug\GestorBD.Form1.resources
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\obj\Debug\GestorBD.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.CopyComplete
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\obj\Debug\GestorBD.exe
+C:\Users\Renan\Desktop\CSharp\GestorBD\GestorBD\obj\Debug\GestorBD.pdb

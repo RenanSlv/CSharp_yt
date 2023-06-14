@@ -71,5 +71,57 @@ namespace LigacaoBD3
                 MessageBox.Show("Aconteceu um erro !!!");
             }
         }
+
+        private void cmd_update_Click(object sender, EventArgs e)
+        {
+            //atualizar dados na base de dados
+            try
+            {
+                //ligar/conectar BD
+                SqlCeConnection conn = new SqlCeConnection();
+                conn.ConnectionString = $@"Data Source = C:\Users\Renan\Desktop\CSharp\SQLCEv2\dados.sdf";
+                conn.Open();
+
+                string query = $@"UPDATE Pessoas SET nome='Nome Editado' WHERE nome='Rui Daniel'";
+                string query1 = $@"UPDATE Pessoas SET endereco='Rua mais recente', telefone='111222444' WHERE nome='Nome Editado'";
+
+                //atualização de um registro
+                SqlCeCommand operario = new SqlCeCommand(query, conn);
+                //operario.CommandText = "update Pessoas set nome='Nome Editado' where nome='Rui Daniel'";
+                operario.CommandText = query1;
+                operario.ExecuteNonQuery();
+
+                conn.Close();
+            }
+            catch
+            {
+                MessageBox.Show("Aconteceu um erro na Edição !!!");
+            }
+        }
+
+        private void cmd_delete_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                //ligar/conectar
+                SqlCeConnection conn = new SqlCeConnection($@"Data Source=C:\Users\Renan\Desktop\CSharp\SQLCEv2\dados.sdf");
+                conn.Open();
+
+                //eliminição de dados
+                string query = "DELETE FROM Pessoas WHERE nome = 'João Ribeiro'";
+                SqlCeCommand cmd = new SqlCeCommand();
+                cmd.Connection = conn;
+                cmd.CommandText = query;
+                cmd.ExecuteNonQuery();
+                
+
+                //fechar
+                conn.Close();
+            }
+            catch
+            {
+                MessageBox.Show("Erro ao deletar um dado.");
+            }
+        }
     }
 }

@@ -31,6 +31,8 @@
             this.list_dados = new System.Windows.Forms.ListBox();
             this.btn_executar = new System.Windows.Forms.Button();
             this.cmd_insert = new System.Windows.Forms.Button();
+            this.cmd_update = new System.Windows.Forms.Button();
+            this.cmd_delete = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // list_dados
@@ -61,11 +63,33 @@
             this.cmd_insert.UseVisualStyleBackColor = true;
             this.cmd_insert.Click += new System.EventHandler(this.cmd_insert_Click);
             // 
+            // cmd_update
+            // 
+            this.cmd_update.Location = new System.Drawing.Point(453, 143);
+            this.cmd_update.Name = "cmd_update";
+            this.cmd_update.Size = new System.Drawing.Size(121, 59);
+            this.cmd_update.TabIndex = 3;
+            this.cmd_update.Text = "Update";
+            this.cmd_update.UseVisualStyleBackColor = true;
+            this.cmd_update.Click += new System.EventHandler(this.cmd_update_Click);
+            // 
+            // cmd_delete
+            // 
+            this.cmd_delete.Location = new System.Drawing.Point(453, 208);
+            this.cmd_delete.Name = "cmd_delete";
+            this.cmd_delete.Size = new System.Drawing.Size(121, 59);
+            this.cmd_delete.TabIndex = 4;
+            this.cmd_delete.Text = "Delete";
+            this.cmd_delete.UseVisualStyleBackColor = true;
+            this.cmd_delete.Click += new System.EventHandler(this.cmd_delete_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(587, 433);
+            this.Controls.Add(this.cmd_delete);
+            this.Controls.Add(this.cmd_update);
             this.Controls.Add(this.cmd_insert);
             this.Controls.Add(this.btn_executar);
             this.Controls.Add(this.list_dados);
@@ -80,6 +104,8 @@
         private System.Windows.Forms.ListBox list_dados;
         private System.Windows.Forms.Button btn_executar;
         private System.Windows.Forms.Button cmd_insert;
+        private System.Windows.Forms.Button cmd_update;
+        private System.Windows.Forms.Button cmd_delete;
     }
 }
 

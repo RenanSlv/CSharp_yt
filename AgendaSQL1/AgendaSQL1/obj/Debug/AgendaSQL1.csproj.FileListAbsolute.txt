@@ -1,0 +1,15 @@
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\bin\Debug\AgendaSQL1.exe.config
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\bin\Debug\AgendaSQL1.exe
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\bin\Debug\AgendaSQL1.pdb
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.frm_menu.resources
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.exe
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.pdb
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.csproj.CopyComplete
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.frmAdicionarEditar.resources
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.frmResultados.resources
+C:\Users\Renan\Desktop\CSharp\AgendaSQL1\AgendaSQL1\obj\Debug\AgendaSQL1.frmPesquisa.resources

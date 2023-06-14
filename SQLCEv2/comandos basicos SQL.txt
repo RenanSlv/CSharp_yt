@@ -17,9 +17,173 @@ UPDATE contatos SET nome = 'NomeAlterado' WHERE nome = 'Novo Nome'
 /* Deletando dados*/
 DELETE FROM contatos WHERE nome = 'João Ribeiro'
 
+//deltar maid e um 
+DELETE FROM contatos WHERE nome = 'João Ribeiro' OR endereco = 'Rua nova'
+
 /* Criando novas tabelas*/
 create table Esportes(
 Modalidade nvarchar(100),
 NumeroJogadores int,
 Regras nvarchar(255)
 )
+
+/* Sinal de diferente*/
+<>
+
+/* Operação*/
+SELECT * FROM compras WHERE quantidade*preco_unidade >= 20
+
+/* Entre*/
+SELECT * FROM clientes WHERE id_cliente >= 3 AND id_cliente <= 7
+
+SELECT * FROM clientes WHERE id_cliente BETWEEN 3 AND 7
+
+/* Numero exato*/
+SELECT * FROM compras WHERE id_compra IN (3,5,7)
+SELECT * FROM compras WHERE id_compra = 3 OR id_compra = 5 OR id_compra = 7
+
+
+/* Verificação conforme*/
+// começa com a letra A
+SELECT * FROM clientes WHERE nome LIKE 'a%'
+// termina com a letra A
+SELECT * FROM clientes WHERE nome LIKE '%a'
+// tem AN no meio 
+SELECT * FROM clientes WHERE nome LIKE '%an%'
+SELECT * FROM clientes WHERE nome LIKE '%João%' or nome LIKE '%Costa%'; 
+
+// verifica o nome com substituição de uma letra
+SELECT * FROM clientes WHERE nome LIKE 'pe_a'
+
+/* ORDER BY*/
+//ORDENA A PESQUISA
+//ASC = ascendente
+SELECT * FROM clientes ORDER BY nome ASC
+//DESC = descendente
+SELECT * FROM clientes ORDER BY nome DESC
+
+
+/* SELECT DISTINCT*/
+//DISTINTO = mostra os produtos diferentes
+SELECT DISTINCT produto FROM compras
+
+/* TOP*/
+SELECT TOP(5) * FROM clientes
+//os menores
+SELECT TOP(5) * FROM clientes ORDER BY id_clientes DESC
+
+/* MUDA O NOME DA TABELA*/
+SELECT * FROM clientes AS primeiros
+
+/* MOSTRAR 2 TABELAS*/
+SELECT *,* FROM clientes,compras (NAO SEGURO)
+//
+SELECT c.*,d.* FROM clientes c, compras d WHERE c.nome = 'João Ribeiro' AND d.produto = 'Banana'
+//
+SELECT clientes.*,compras.* FROM clientes,compras WHERE clientes.nome = 'João Ribeiro' AND compras.produto = 'Banana'
+
+/*
+
+##### JUNTAR TABELAS ####### 
+INNER JOIN - juntar linhas da tabela esquerda com as da tabela da direita, desde que existam dados que obdeçam à cláusula
+
+LEFT JOIN - juntar aos dados da tabela esquerda, os relacionados na tabela da direita
+
+RIGHT JOIN - o inverso.
+
+*/
+
+//ON
+SELECT * FROM clientes INNER JOIN compras ON clientes.id_cliente = compras.id_cliente
+//MOSTRA QUE EXITE O CLIENTE MAS ELE NÃO FEZ COMPRAS
+SELECT * FROM clientes LEFT JOIN compras ON clientes.id_cliente = compras.id_cliente WHERE clientes.id_cliente = 9
+//MOSTRA AS COMPRAS QUE ELE FEZ 
+SELECT * FROM clientes INNER JOIN compras ON clientes.id_cliente = compras.id_cliente WHERE clientes.id_cliente = 2
+
+/* FUNÇÕES EM SQL*/
+//MEDIA AVG()
+SELECT AVG(quantidade) AS QUANTIDADE FROM compras
+
+//TOTAL DE REGISTROS COUNT()
+SELECT COUNT(quantidade) AS TOTAL FROM compras
+
+//SOMA TOTAL SUM()
+SELECT SUM(quantidade) AS TOTAL FROM compras
+
+//MAX
+SELECT MAX(quantidade) FROM compras
+// AS da o nome da coluna
+SELECT MAX(quantidade) AS quantidade FROM compras
+
+//MIN
+SELECT MIN(quantidade) AS MINquantidade FROM compras
+
+
+
+
+
+
+
+
+
+============================================
+CRIANDO UMA TABELA UTILIZANDO SQL
+============================================
+
+/*
+-id_encomenda(PK) - INT
+-id_cliente(FK) - INT
+-produto - string
+-quantidade - INT
+-data_encomenda - data
+-executado - bool
+
+*/
+
+CREATE TABLE encomendas
+(
+	id_encomenda	INT NOT NULL PRIMARY KEY,
+	id_cliente		INT NOT NULL,
+	produto			NVARCHAR(50),
+	quantidade		INT,
+	data_encomenda  DATETIME,
+	executado 		BIT,
+	FOREIGN KEY(id_cliente) REFERENCES clientes(id_cliente) ON DELETE CASCADE
+)
+
+
+
+
+
+
+
+////////////////
+usando o GestorDB.cs
+
+                //tabela clientes
+                "CREATE TABLE clientes(",
+                "id_cliente     int NOT NULL PRIMARY KEY,",
+                "nome           nvarchar(50),",
+                "telefone       nvarchar(20),",
+                "atualizacao    datetime)",
+                "END",
+
+                //tabela compras
+                "CREATE TABLE compras(",
+                "id_compra      int NOT NULL PRIMARY KEY,",
+                "id_cliente     int,",
+                "produto        nvarchar(50),",
+                "quantidade     int,",
+                "preco_unidade  int,",
+                "atualizacao    datetime,",
+                "FOREIGN KEY(id_cliente) REFERENCES clientes(id_cliente) ON DELETE CASCADE)",
+                "END"
+
+
+
+
+
+
+
+
+

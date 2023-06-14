@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\SQLServer1\SQLServer1\bin\Debug\SQLServer1.exe.config
+C:\Users\Renan\Desktop\CSharp\SQLServer1\SQLServer1\bin\Debug\SQLServer1.exe
+C:\Users\Renan\Desktop\CSharp\SQLServer1\SQLServer1\bin\Debug\SQLServer1.pdb
+C:\Users\Renan\Desktop\CSharp\SQLServer1\SQLServer1\obj\Debug\SQLServer1.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\SQLServer1\SQLServer1\obj\Debug\SQLServer1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\SQLServer1\SQLServer1\obj\Debug\SQLServer1.Form1.resources
+C:\Users\Renan\Desktop\CSharp\SQLServer1\SQLServer1\obj\Debug\SQLServer1.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\SQLServer1\SQLServer1\obj\Debug\SQLServer1.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\SQLServer1\SQLServer1\obj\Debug\SQLServer1.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\SQLServer1\SQLServer1\obj\Debug\SQLServer1.exe
+C:\Users\Renan\Desktop\CSharp\SQLServer1\SQLServer1\obj\Debug\SQLServer1.pdb
