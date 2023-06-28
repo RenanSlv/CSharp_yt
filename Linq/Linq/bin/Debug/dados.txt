@@ -1,0 +1,80 @@
+1
+Ana Margarida
+Lisboa
+32
+2
+Paulo Ricardo
+Porto
+12
+3
+Fernanda Mateus
+Madrid
+27
+4
+Rui Martins
+Lisboa
+45
+5
+Carla Santos
+Rio de Janeiro
+29
+6
+Daniel Santos
+Porto
+54
+7
+Pedro Malaquias
+Rio de Janeiro
+42
+8
+Jaime Daniel
+Paris
+55
+9
+João Ribeiro
+Lisboa
+11
+10
+Renan Silva
+Belo Horizonte
+89
+11
+Anne Frank
+Berlim
+77
+12
+Matheus Oliveira
+São Paulo
+22
+13
+Ricardo Santos
+Betim
+25
+14
+Raissa Torres
+Betim
+45
+15
+Thales Ribeiro
+Belo Horizonte
+75
+16
+Luciana Torres
+São Paulo
+31
+17
+Marcos Tadeu
+Porto
+71
+18
+Michael Jackon
+Los Angeles
+32
+19
+Nicole Lacerda
+Belo Horizonte
+35
+20
+Cumpadre Washington
+Bahia
+69

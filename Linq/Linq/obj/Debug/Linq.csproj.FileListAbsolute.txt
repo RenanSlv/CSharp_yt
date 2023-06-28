@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\Renan\Desktop\CSharp\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\Renan\Desktop\CSharp\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\Renan\Desktop\CSharp\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Linq\Linq\obj\Debug\Linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Linq\Linq\obj\Debug\Linq.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Linq\Linq\obj\Debug\Linq.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\Renan\Desktop\CSharp\Linq\Linq\obj\Debug\Linq.pdb
+C:\Users\Renan\Desktop\CSharp\Linq\Linq\obj\Debug\Linq.frmLINQ.resources

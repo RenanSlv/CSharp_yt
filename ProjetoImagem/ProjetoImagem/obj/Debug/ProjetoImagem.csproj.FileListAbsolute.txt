@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\ProjetoImagem\ProjetoImagem\bin\Debug\ProjetoImagem.exe.config
+C:\Users\Renan\Desktop\CSharp\ProjetoImagem\ProjetoImagem\bin\Debug\ProjetoImagem.exe
+C:\Users\Renan\Desktop\CSharp\ProjetoImagem\ProjetoImagem\bin\Debug\ProjetoImagem.pdb
+C:\Users\Renan\Desktop\CSharp\ProjetoImagem\ProjetoImagem\obj\Debug\ProjetoImagem.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\ProjetoImagem\ProjetoImagem\obj\Debug\ProjetoImagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\ProjetoImagem\ProjetoImagem\obj\Debug\ProjetoImagem.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\ProjetoImagem\ProjetoImagem\obj\Debug\ProjetoImagem.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\ProjetoImagem\ProjetoImagem\obj\Debug\ProjetoImagem.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\ProjetoImagem\ProjetoImagem\obj\Debug\ProjetoImagem.exe
+C:\Users\Renan\Desktop\CSharp\ProjetoImagem\ProjetoImagem\obj\Debug\ProjetoImagem.pdb
+C:\Users\Renan\Desktop\CSharp\ProjetoImagem\ProjetoImagem\obj\Debug\ProjetoImagem.Form1.resources
