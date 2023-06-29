@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Impressao1\Impressao1\bin\Debug\Impressao1.exe.config
+C:\Users\Renan\Desktop\CSharp\Impressao1\Impressao1\bin\Debug\Impressao1.exe
+C:\Users\Renan\Desktop\CSharp\Impressao1\Impressao1\bin\Debug\Impressao1.pdb
+C:\Users\Renan\Desktop\CSharp\Impressao1\Impressao1\obj\Debug\Impressao1.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Impressao1\Impressao1\obj\Debug\Impressao1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Impressao1\Impressao1\obj\Debug\Impressao1.Form1.resources
+C:\Users\Renan\Desktop\CSharp\Impressao1\Impressao1\obj\Debug\Impressao1.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Impressao1\Impressao1\obj\Debug\Impressao1.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Impressao1\Impressao1\obj\Debug\Impressao1.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Impressao1\Impressao1\obj\Debug\Impressao1.exe
+C:\Users\Renan\Desktop\CSharp\Impressao1\Impressao1\obj\Debug\Impressao1.pdb
