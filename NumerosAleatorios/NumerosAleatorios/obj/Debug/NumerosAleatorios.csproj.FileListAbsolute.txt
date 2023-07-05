@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\NumerosAleatorios\NumerosAleatorios\bin\Debug\NumerosAleatorios.exe.config
+C:\Users\Renan\Desktop\CSharp\NumerosAleatorios\NumerosAleatorios\bin\Debug\NumerosAleatorios.exe
+C:\Users\Renan\Desktop\CSharp\NumerosAleatorios\NumerosAleatorios\bin\Debug\NumerosAleatorios.pdb
+C:\Users\Renan\Desktop\CSharp\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.Form1.resources
+C:\Users\Renan\Desktop\CSharp\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.exe
+C:\Users\Renan\Desktop\CSharp\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.pdb

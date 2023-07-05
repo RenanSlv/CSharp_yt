@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\ValoresNumericos\ValoresNumericos\bin\Debug\ValoresNumericos.exe.config
+C:\Users\Renan\Desktop\CSharp\ValoresNumericos\ValoresNumericos\bin\Debug\ValoresNumericos.exe
+C:\Users\Renan\Desktop\CSharp\ValoresNumericos\ValoresNumericos\bin\Debug\ValoresNumericos.pdb
+C:\Users\Renan\Desktop\CSharp\ValoresNumericos\ValoresNumericos\obj\Debug\ValoresNumericos.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\ValoresNumericos\ValoresNumericos\obj\Debug\ValoresNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\ValoresNumericos\ValoresNumericos\obj\Debug\ValoresNumericos.Form1.resources
+C:\Users\Renan\Desktop\CSharp\ValoresNumericos\ValoresNumericos\obj\Debug\ValoresNumericos.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\ValoresNumericos\ValoresNumericos\obj\Debug\ValoresNumericos.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\ValoresNumericos\ValoresNumericos\obj\Debug\ValoresNumericos.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\ValoresNumericos\ValoresNumericos\obj\Debug\ValoresNumericos.exe
+C:\Users\Renan\Desktop\CSharp\ValoresNumericos\ValoresNumericos\obj\Debug\ValoresNumericos.pdb

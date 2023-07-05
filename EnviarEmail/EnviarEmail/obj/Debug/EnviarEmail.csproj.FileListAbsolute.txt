@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\EnviarEmail\EnviarEmail\bin\Debug\EnviarEmail.exe.config
+C:\Users\Renan\Desktop\CSharp\EnviarEmail\EnviarEmail\bin\Debug\EnviarEmail.exe
+C:\Users\Renan\Desktop\CSharp\EnviarEmail\EnviarEmail\bin\Debug\EnviarEmail.pdb
+C:\Users\Renan\Desktop\CSharp\EnviarEmail\EnviarEmail\obj\Debug\EnviarEmail.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\EnviarEmail\EnviarEmail\obj\Debug\EnviarEmail.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\EnviarEmail\EnviarEmail\obj\Debug\EnviarEmail.Form1.resources
+C:\Users\Renan\Desktop\CSharp\EnviarEmail\EnviarEmail\obj\Debug\EnviarEmail.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\EnviarEmail\EnviarEmail\obj\Debug\EnviarEmail.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\EnviarEmail\EnviarEmail\obj\Debug\EnviarEmail.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\EnviarEmail\EnviarEmail\obj\Debug\EnviarEmail.exe
+C:\Users\Renan\Desktop\CSharp\EnviarEmail\EnviarEmail\obj\Debug\EnviarEmail.pdb

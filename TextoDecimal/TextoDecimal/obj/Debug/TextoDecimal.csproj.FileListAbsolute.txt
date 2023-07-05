@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\TextoDecimal\TextoDecimal\bin\Debug\TextoDecimal.exe.config
+C:\Users\Renan\Desktop\CSharp\TextoDecimal\TextoDecimal\bin\Debug\TextoDecimal.exe
+C:\Users\Renan\Desktop\CSharp\TextoDecimal\TextoDecimal\bin\Debug\TextoDecimal.pdb
+C:\Users\Renan\Desktop\CSharp\TextoDecimal\TextoDecimal\obj\Debug\TextoDecimal.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\TextoDecimal\TextoDecimal\obj\Debug\TextoDecimal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\TextoDecimal\TextoDecimal\obj\Debug\TextoDecimal.Form1.resources
+C:\Users\Renan\Desktop\CSharp\TextoDecimal\TextoDecimal\obj\Debug\TextoDecimal.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\TextoDecimal\TextoDecimal\obj\Debug\TextoDecimal.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\TextoDecimal\TextoDecimal\obj\Debug\TextoDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\TextoDecimal\TextoDecimal\obj\Debug\TextoDecimal.exe
+C:\Users\Renan\Desktop\CSharp\TextoDecimal\TextoDecimal\obj\Debug\TextoDecimal.pdb

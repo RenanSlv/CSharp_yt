@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Permissoes\Permissoes\bin\Debug\Permissoes.exe.config
+C:\Users\Renan\Desktop\CSharp\Permissoes\Permissoes\bin\Debug\Permissoes.exe
+C:\Users\Renan\Desktop\CSharp\Permissoes\Permissoes\bin\Debug\Permissoes.pdb
+C:\Users\Renan\Desktop\CSharp\Permissoes\Permissoes\obj\Debug\Permissoes.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Permissoes\Permissoes\obj\Debug\Permissoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Permissoes\Permissoes\obj\Debug\Permissoes.Form1.resources
+C:\Users\Renan\Desktop\CSharp\Permissoes\Permissoes\obj\Debug\Permissoes.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Permissoes\Permissoes\obj\Debug\Permissoes.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Permissoes\Permissoes\obj\Debug\Permissoes.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Permissoes\Permissoes\obj\Debug\Permissoes.exe
+C:\Users\Renan\Desktop\CSharp\Permissoes\Permissoes\obj\Debug\Permissoes.pdb
