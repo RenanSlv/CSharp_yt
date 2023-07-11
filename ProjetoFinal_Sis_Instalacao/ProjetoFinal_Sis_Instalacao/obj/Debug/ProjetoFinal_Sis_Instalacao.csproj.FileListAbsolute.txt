@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\ProjetoFinal_Sis_Instalacao\ProjetoFinal_Sis_Instalacao\obj\Debug\ProjetoFinal_Sis_Instalacao.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\ProjetoFinal_Sis_Instalacao\ProjetoFinal_Sis_Instalacao\obj\Debug\ProjetoFinal_Sis_Instalacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\ProjetoFinal_Sis_Instalacao\ProjetoFinal_Sis_Instalacao\obj\Debug\ProjetoFinal_Sis_Instalacao.Form1.resources
+C:\Users\Renan\Desktop\CSharp\ProjetoFinal_Sis_Instalacao\ProjetoFinal_Sis_Instalacao\obj\Debug\ProjetoFinal_Sis_Instalacao.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\ProjetoFinal_Sis_Instalacao\ProjetoFinal_Sis_Instalacao\obj\Debug\ProjetoFinal_Sis_Instalacao.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\ProjetoFinal_Sis_Instalacao\ProjetoFinal_Sis_Instalacao\obj\Debug\ProjetoFinal_Sis_Instalacao.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\ProjetoFinal_Sis_Instalacao\ProjetoFinal_Sis_Instalacao\bin\Debug\ProjetoFinal_Sis_Instalacao.exe.config
+C:\Users\Renan\Desktop\CSharp\ProjetoFinal_Sis_Instalacao\ProjetoFinal_Sis_Instalacao\bin\Debug\ProjetoFinal_Sis_Instalacao.exe
+C:\Users\Renan\Desktop\CSharp\ProjetoFinal_Sis_Instalacao\ProjetoFinal_Sis_Instalacao\bin\Debug\ProjetoFinal_Sis_Instalacao.pdb
+C:\Users\Renan\Desktop\CSharp\ProjetoFinal_Sis_Instalacao\ProjetoFinal_Sis_Instalacao\obj\Debug\ProjetoFinal_Sis_Instalacao.exe
+C:\Users\Renan\Desktop\CSharp\ProjetoFinal_Sis_Instalacao\ProjetoFinal_Sis_Instalacao\obj\Debug\ProjetoFinal_Sis_Instalacao.pdb

@@ -1,0 +1,12 @@
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\bin\Debug\Controls.exe.config
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\bin\Debug\Controls.exe
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\bin\Debug\Controls.pdb
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\obj\Debug\Controls.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\obj\Debug\Controls.Form1.resources
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\obj\Debug\Controls.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\obj\Debug\Controls.exe
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\obj\Debug\Controls.pdb
+C:\Users\Renan\Desktop\CSharp\Controls\Controls\obj\Debug\Controls.Form2.resources

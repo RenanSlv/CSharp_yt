@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\Seguranca\Seguranca\bin\Debug\Seguranca.exe.config
+C:\Users\Renan\Desktop\CSharp\Seguranca\Seguranca\bin\Debug\Seguranca.exe
+C:\Users\Renan\Desktop\CSharp\Seguranca\Seguranca\bin\Debug\Seguranca.pdb
+C:\Users\Renan\Desktop\CSharp\Seguranca\Seguranca\obj\Debug\Seguranca.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\Seguranca\Seguranca\obj\Debug\Seguranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\Seguranca\Seguranca\obj\Debug\Seguranca.Form1.resources
+C:\Users\Renan\Desktop\CSharp\Seguranca\Seguranca\obj\Debug\Seguranca.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\Seguranca\Seguranca\obj\Debug\Seguranca.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\Seguranca\Seguranca\obj\Debug\Seguranca.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\Seguranca\Seguranca\obj\Debug\Seguranca.exe
+C:\Users\Renan\Desktop\CSharp\Seguranca\Seguranca\obj\Debug\Seguranca.pdb

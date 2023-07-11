@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetosESolucoes\bin\Debug\ProjetosESolucoes.exe.config
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetosESolucoes\bin\Debug\ProjetosESolucoes.exe
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetosESolucoes\bin\Debug\ProjetosESolucoes.pdb
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetosESolucoes\obj\Debug\ProjetosESolucoes.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetosESolucoes\obj\Debug\ProjetosESolucoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetosESolucoes\obj\Debug\ProjetosESolucoes.Form1.resources
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetosESolucoes\obj\Debug\ProjetosESolucoes.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetosESolucoes\obj\Debug\ProjetosESolucoes.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetosESolucoes\obj\Debug\ProjetosESolucoes.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetosESolucoes\obj\Debug\ProjetosESolucoes.exe
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetosESolucoes\obj\Debug\ProjetosESolucoes.pdb

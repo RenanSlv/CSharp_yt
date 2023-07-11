@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetoTestes\bin\Debug\ProjetoTestes.exe.config
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetoTestes\bin\Debug\ProjetoTestes.exe
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetoTestes\bin\Debug\ProjetoTestes.pdb
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetoTestes\obj\Debug\ProjetoTestes.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetoTestes\obj\Debug\ProjetoTestes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetoTestes\obj\Debug\ProjetoTestes.Form1.resources
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetoTestes\obj\Debug\ProjetoTestes.Properties.Resources.resources
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetoTestes\obj\Debug\ProjetoTestes.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetoTestes\obj\Debug\ProjetoTestes.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetoTestes\obj\Debug\ProjetoTestes.exe
+C:\Users\Renan\Desktop\CSharp\ProjetosESolucoes\ProjetoTestes\obj\Debug\ProjetoTestes.pdb
