@@ -2,7 +2,11 @@
 
 ## Projetos
 - Calculadora
-- 
+- Agenda Telefonica
+- Agenda Telefonica com SQL
+- Criação, manipulação e remoção de tabelas SQL
+- Envio de e-mail
+- Sistema de Login com criptografia
 
 ## Tecnologias Utilizadas
 - .NET
